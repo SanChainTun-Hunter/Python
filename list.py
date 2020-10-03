@@ -11,3 +11,7 @@ print(animals)
 
 #indexing of list
 print(animals[0] , animals[3] , animals [5])			#indexing to animal list >> index[0] = ants , index[1] = birds ,etc...
+
+#slicing list
+
+print(animals[1:5])             # print index1 to index4 output >>> ['birds', 'cows', 'dogs', 'elephants']
